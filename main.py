@@ -1,4 +1,4 @@
-from utils import *
+from utils import add, sub, multiply, divide, exponent, modulo, floor_divide, absolute
 
 while True:
     op = input("Which calculation would you like to perform? (add, subtract, multiply, divide, exponent, modulo, floor_divide, absolute, exit):\n").lower()
